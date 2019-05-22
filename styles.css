@@ -67,3 +67,9 @@ a {
   background-image: url(https://media.giphy.com/media/yNfA2WrZMNGxx3AeaO/giphy.gif);
   background-size: 100%;
 }
+
+.sadCorp {
+  border: solid black;
+  border-radius: 50px;
+  background-color: darkred;
+}
