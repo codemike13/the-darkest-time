@@ -4,7 +4,7 @@
 }
 td {
   border-radius: 15px;
-  font-size: 35px;
+  font-size: 25px;
   text-align: center;
 }
 tr {
@@ -58,4 +58,12 @@ th {
   max-width: 100%;
   background-size: 100%;
   background-image: url(https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/BCmOcSHDxiyc1t55j/close-up-shot-of-candle-burning-and-beeing-blown-out-after-few-seconds-with-smoke-rising-from-the-wick-shot-with-canon-5d-mk3-with-ef-100mm-f-28l-lens_brjaphkpg_thumbnail-full09.png);
+}
+a {
+  font-size: 30px;
+}
+
+.sad {
+  background-image: url(https://media.giphy.com/media/yNfA2WrZMNGxx3AeaO/giphy.gif);
+  background-size: 100%;
 }
